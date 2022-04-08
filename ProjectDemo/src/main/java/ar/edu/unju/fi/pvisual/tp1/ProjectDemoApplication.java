@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.pvisual2.tp1;
+package ar.edu.unju.fi.pvisual.tp1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
